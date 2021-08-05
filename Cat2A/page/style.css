@@ -1,0 +1,25 @@
+.one{
+    background-image: url("sources/chad-greiter--0gBnnMdQPw-unsplash.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    text-align: center;
+    margin-top: 20px;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: green;
+    font: bold;
+}
+h2{
+    text-align: center;
+    color: powderblue;
+    font: italic;
+    font-size: 50px;
+}
+.two{
+    background-color: white;
+}
+.col{
+    background-color: #17a2b8;
+}
